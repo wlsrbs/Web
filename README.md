@@ -1,7 +1,7 @@
 ## Tutorials
 
-> 터미널에서 streamlit run 1.distilgpt2_app.py 명령어로 실행
-> 브라우저를 열고 웹 테스트 진행
+- 터미널에서 streamlit run 1.distilgpt2_app.py 명령어로 실행
+- 브라우저를 열고 웹 테스트 진행
 
 --------------
 > 초기화면
